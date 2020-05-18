@@ -2,3 +2,5 @@ Employee
 Roles
 Devices
 GlobalSettings
+UserGroups
+
