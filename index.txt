@@ -3,3 +3,6 @@ Roles
 Devices
 UserGroups
 adding
+GlobalSettings
+UserGroups
+adding new
